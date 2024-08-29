@@ -1,6 +1,12 @@
 # PowerBI-Zomato_Customer_Segmentation_Analysis
 ## Introduction 
 This report provides a comprehensive analysis of customer segmentation and spending habits for Zomato. The goal of this analysis is to gain deeper insights into how different customer segments interact with the app, and their spending patterns. By segmenting customers based on demographics such as age and occupation and analyzing their behavior to develop targeted marketing campaigns to attract new customers and improve customer retention.
+## Tables
+- food
+- menu
+- orders
+- restaurant
+- users
 ## Objectives
 - Understand Zomato’s customers through segmentation and behavioral analysis, to develop targeted marketing campaigns aimed at generating more customers and improving customer retention.
 - Analyze how different segments interact with the app
